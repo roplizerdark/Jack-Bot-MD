@@ -10,8 +10,8 @@ global.owner = [['201208386317', '🌩️ ẉa.me/MVRO‖.peị!‽ 👑', true]
 global.botNumberCode = '' //Ejemplo: +201208386317
 global.confirmCode = ''
 
-global.animxscans = ['201208386317']
-global.suittag = ['201208386317']
+global.animxscans = ['201141045951']
+global.suittag = ['201141045951']
 global.mods = []
 global.prems = []
 
@@ -29,7 +29,7 @@ global.lenguaje = 'Español'
 global.KMA = '╰━━━〔 *🛡️ 1.7.9* 〕━━━━━⬣'
 global.menudi = ['⛶','❏','⫹⫺']
 global.dev = '© 𝙼𝚅𝚁𝙾 𝙱𝙾𝚃'
-global.devnum = '201208386317'
+global.devnum = '201141045951'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => { unwatchFile(file)
