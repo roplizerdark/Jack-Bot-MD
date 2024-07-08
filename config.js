@@ -3,19 +3,19 @@ import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
 global.owner = [['201141045951', '🌩️ ẉa.me/MVRO‖.peị!‽ 👑', true], 
- ['201141045951', '🌩️ ẉa.me/MVRO‖.peị!‽ 👑', true],  ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951']]
+ ['201141045951', '🌩️ ẉa.me/MVRO‖.peị!‽ 👑', true],  ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['48459438480']]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
 global.botNumberCode = '' //Ejemplo: +201208386317
 global.confirmCode = ''
 
-global.animxscans = ['201141045951']
-global.suittag = ['201141045951']
+global.animxscans = ['48459438480']
+global.suittag = ['48459438480']
 global.mods = []
 global.prems = []
 
-global.packname = '『 01144987551 』'
+global.packname = '『 48459438480 』'
 global.author = '『 مـــاࢪو بــ☠️ـوت 』'
 global.wm = '『مـــاࢪو بــ🐍ـؤؤت 』'
 global.wm2 = '『 مـــاࢪو بــ💎ـوت 』'
@@ -29,7 +29,7 @@ global.lenguaje = 'Español'
 global.KMA = '╰━━━〔 *🛡️ 1.7.9* 〕━━━━━⬣'
 global.menudi = ['⛶','❏','⫹⫺']
 global.dev = '© 𝙼𝚅𝚁𝙾 𝙱𝙾𝚃'
-global.devnum = '201141045951'
+global.devnum = '48459438480'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => { unwatchFile(file)
