@@ -20,7 +20,7 @@ global.rosas = fs.readFileSync('./storage/imagenes/rosas.jpg')
 global.refran = fs.readFileSync('./storage/imagenes/refran.jpg')
 global.linksjpg = fs.readFileSync('./storage/imagenes/Links.jpg')
 
-var img = 'https://telegra.ph/file/efb1c82a1c11caa338b8e.jpg'; var img1 = 'https://telegra.ph/file/cf3ff642dd9eb7b209e36.jpg'; var img3 = 'https://telegra.ph/file/6ec4f60597e6bfc7ba842.jpg'; var img4 = 'https://telegra.ph/file/6ec4f60597e6bfc7ba842.jpg'; var img5 = 'https://telegra.ph/file/d1b9d275747a0c2258b35.jpg'
+var img = 'https://telegra.ph/file/efb1c82a1c11caa338b8e.jpg'; var img1 = 'https://telegra.ph/file/4a598ee55287b798348dc.jpg'; var img3 = 'https://telegra.ph/file/4a598ee55287b798348dc.jpg'; var img4 = 'https://telegra.ph/file/4a598ee55287b798348dc.jpg'; var img5 = 'https://telegra.ph/file/4a598ee55287b798348dc.jpg'
 var img6 = 'https://telegra.ph/file/efb1c82a1c11caa338b8e.jpg'
 //Navideñas
 var img2 = 'https://telegra.ph/file/efb1c82a1c11caa338b8e.jpg'
