@@ -28,19 +28,19 @@ var img2 = 'https://telegra.ph/file/efb1c82a1c11caa338b8e.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6]
 
 //Enlaces
-global.yt = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz'
-global.ig = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz'
-global.md = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz'
-global.paypal = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz'
-global.git = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz'
-global.nn = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz' //Grupo ofc
-global.nnn = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz' //Curiosity global
-global.nnnn = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz' //colaboración multi bots
-global.nnnnn = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz' //Colaboración CuriosityBot - NovaBot 
-global.nnnnnn = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz' //enlace curiosity
-global.channel = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz'
-global.email = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz'
-global.channel2 = 'https://chat.whatsapp.com/GktNDs0X4EMG93hDujrGYz'
+global.yt = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB'
+global.ig = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB'
+global.md = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB'
+global.paypal = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB'
+global.git = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB'
+global.nn = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB' //Grupo ofc
+global.nnn = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB' //Curiosity global
+global.nnnn = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB' //colaboración multi bots
+global.nnnnn = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB' //Colaboración CuriosityBot - NovaBot 
+global.nnnnnn = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB' //enlace curiosity
+global.channel = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB'
+global.email = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB'
+global.channel2 = 'https://chat.whatsapp.com/ESZ1iSBLiOL3HWGYY100eB'
 global.linkSity = [yt, ig, md, paypal, git, channel, channel2]
 
 //Raíz
