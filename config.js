@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
 global.owner = [['201274605652', 'Adham khaled', true], 
- ['201080898312', 'Adham 𝐵𝛩𝑇', false],  ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201141045951'], ['201066909808'], ['201159596672'], ['201148980831'], ['201066909808']]
+ ['201014576656', 'Adham Khaled', false],  ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652']]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
