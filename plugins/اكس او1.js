@@ -56,6 +56,6 @@ ${usedPrefix}${command} ${text}` : ''))
 
 handler.help = ['tictactoe', 'ttt'].map(v => v + ' [custom room name]')
 handler.tags = ['game']
-handler.command = /^(اكس_او)$/
+handler.command = /^(اكس)$/
 
 export default handler
