@@ -1,4 +1,4 @@
-import { generateWAMessageFromContent } from "@whiskeysockets/baileys";
+iΑmport { generateWAMessageFromContent } from "@whiskeysockets/baileys";
 import os from "os";
 import util from "util";
 import sizeFormatter from "human-readable";
@@ -25,8 +25,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mvro Bot';
   const info = ` _*< معلومات - البوت />*_
 
- ▢ *المطور.:*𝓐𝓜𝓡𝓞 𝓚𝓗𝓐𝓛𝓘𝓓 👾
- ▢ *رقم المطور:* wa.me/201208386317
+ ▢ *المطور.:* Αԃԋαɱ ƙԋαʅҽԃ👾
+ ▢ *رقم المطور:* wa.me/201274605652
  ▢ *دعم:* 
 
  ▢ *بينغ:* ${rtime}
