@@ -41,7 +41,7 @@ var handler = async (m, { conn, text, usedPrefix, command }) => {
       console.error(err);
       try {
         // المحاولة الثالثة للحصول على الرد من خدمة أخرى
-        let tioress = await fetch(`https://api.lolhuman.xyz/api/openai-turbo?apikey=YOUR_API_KEY&text=${text}`);
+        let tioress = await fetch(`https://api.lolhuman.xyz/api/openai-turbo?apikey=6af6eba6a7599935b80d50dd&text=${text}`);
         let hasill = await tioress.json();
         conn.reply(m.chat, `${hasill.result}`, m);
       } catch (err) {
