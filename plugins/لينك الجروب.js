@@ -4,9 +4,9 @@ const handler = async (m, {conn, args}) => {
   conn.reply(m.chat, 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group), m, {
     contextInfo: {externalAdReply: {mediaUrl: null, mediaType: 1, description: null,
       title: 'رابـط الـجـروب',
-      body: '『🔥┇𝚖𝚟𝚛𝚘 𝚋𝚘𝚝
+      body: '『🔥┇astro 𝚋𝚘𝚝
       previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
-      sourceUrl: `http://wa.me/201208386317`}}});
+      sourceUrl: `http://wa.me/201274605652`}}});
 };
 handler.help = ['linkgroup'];
 handler.tags = ['group'];
