@@ -6,7 +6,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 conn.tekateki = conn.tekateki ? conn.tekateki : {}
 let id = m.chat
 if (id in conn.tekateki) {
-conn.reply(m.chat, '*يجب الرد على سؤال قبل الاسئلة الاخرى*\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n𝙼𝚅𝚁𝙾 𝙱𝙾𝚃', conn.tekateki[id][0])
+conn.reply(m.chat, '*يجب الرد على سؤال قبل الاسئلة الاخرى*\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\nastro 𝙱𝙾𝚃', conn.tekateki[id][0])
 throw false
 }
 let tekateki = JSON.parse(fs.readFileSync(`./src/game/culture.json`))
