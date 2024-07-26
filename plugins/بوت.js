@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
   let filename = 'imgerror.jpg'; // اسم الملف
 
   // رسالة مع التعديل المطلوب
-  let msg = `*مــرحــبًــا ⌊ ${mentionedUsername} ⌉ انـا مـارو • تـحـتـاج الـى مـسـاعـدة؟ ، اكـتـب﹙.اوامــر﹚*\n\n> *مـمـنـوع اسـتـخـدام الـبـوت فـي الـدردشـات الـخـاصـة!*`;
+  let msg = `*مــرحــبًــا ⌊ ${mentionedUsername} ⌉ انـا استرو • تـحـتـاج الـى مـسـاعـدة؟ ، اكـتـب﹙.اوامــر﹚*\n\n> *مـمـنـوع اسـتـخـدام الـبـوت فـي الـدردشـات الـخـاصـة!*`;
 
   conn.sendFile(m.chat, imgurl, filename, msg, m, false, { thumbnail: Buffer.alloc(0), mentions: [who] });
 };
