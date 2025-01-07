@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
-global.owner = [['201274605652', 'Adham khaled', true], 
+global.owner = [['218912483922', 'Adham khaled', true], 
  ['201014576656', 'Adham Khaled', true],  ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652'], ['201274605652']]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
